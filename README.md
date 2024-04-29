@@ -1,5 +1,5 @@
 <h1>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ Hi, I'm Xavier!
- 
+ ![](https://komarev.com/ghpvc/?username=dev-Seeks&color=grey&style=flat-square)
 <h2>👨‍💻 General Projects:</h2>
 
 - [College Projects](https://github.com/joshmadakor1/Algorithms-Practice)
