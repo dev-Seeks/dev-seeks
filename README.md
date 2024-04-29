@@ -1,5 +1,5 @@
 <h1>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ Hi, I'm Xavier!
- ![Profile Views](https://komarev.com/ghpvc/?username=dev-Seeks&style=flat-square)
+ ![](https://hit.yhype.me/github/profile?user_id=168383006)
 <h2>👨‍💻 General Projects:</h2>
 
 - [College Projects](https://github.com/joshmadakor1/Algorithms-Practice)
