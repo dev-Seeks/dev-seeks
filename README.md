@@ -18,5 +18,5 @@
 
 [youtube]: https://www.youtube.com/c/iceyynm
 [instagram]: https://www.instagram.com/x710_62
-[linkedin]: www.linkedin.com/in/xavier-corrales-77a640306
+[linkedin]: https://www.linkedin.com/in/mrxavierr/
 
