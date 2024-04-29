@@ -1,5 +1,5 @@
-<h1>Hi, I'm Xavier!
-______________________
+                      <h1>Hi, I'm Xavier!
+ 
 <h2>👨‍💻 General Projects:</h2>
 
 - [College Projects](https://github.com/joshmadakor1/Algorithms-Practice)
