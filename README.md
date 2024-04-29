@@ -1,5 +1,5 @@
 <h1>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ Hi, I'm Xavier!
- ![](https://hit.yhype.me/github/profile?user_id=168383006)
+
 <h2>👨‍💻 General Projects:</h2>
 
 - [College Projects](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,5 +18,5 @@
 
 [youtube]: https://www.youtube.com/c/iceyynm
 [instagram]: https://www.instagram.com/x710_62
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: www.linkedin.com/in/xavier-corrales-77a640306
 
